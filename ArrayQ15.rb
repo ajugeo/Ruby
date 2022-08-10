@@ -4,16 +4,13 @@ INPUT : 1 2 3 4 5
 OUTPUT : 5 1 2 3 4;l
 =end
 
-array = [22, 44, 22, 44, 22, 66]
-num_rotations = array.length
+nums = [22, 44, 22, 44, 22, 66]
+k = array.length
 
 
-def rightrotate()
-    last = self[self.length-1]
-
-    for i in (self.length-2).downto(0)
-        self[i+1] = self [i]
+def rotate(nums, k)
+    while k > 0
+        nums.unshift(nums.pop)
+        k -= 1
     end
-    self[0] = last
-    
 end

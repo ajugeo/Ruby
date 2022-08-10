@@ -1,0 +1,90 @@
+ROUND 1
+
+Dear Candidate,
+
+Your application for the Associate Development Engineer position at HashAgile, a Coimbatore-based startup, has been received.
+
+Since we will be live from Jul Mid only, we are not yet listed in Google, but we can answer any questions you may have over the chat/phone call during the interview.
+
+As mentioned in the Google forms, there will be two to three rounds of interviews.
+
+First two rounds will be basic coding evaluation based on micro assignments.
+
+Please choose any one of the three programming challenges in the attachment and respond as soon as possible.
+
+Email Response Checklist
+Subject is postfixed with First name
+Eg. Associate Development Engineer -Batch #6  Round #1 - Kiran
+Working https://www.onlinegdb.com/ url or any other online editor that you are comfortable with
+Supporting screenshots of input & output
+Make sure code  is attached in the online url.
+
+NB please take a moment to mark the email as not spam in your spam folder.
+
+ROUND 2
+
+Congratulations 
+
+You are advanced to the Second Round of selection.
+The New Language Adaptation Round
+The Task is Write the same code in Ruby language
+and update asap in an online editor just like the previous one.
+
+All the best
+NB please take a moment to mark the email as not spam in your spam folder.
+
+Round 3
+SOLR 
+1)https://solr.apache.org/guide/solr/latest/getting-started/solr-tutorial.html
+Read about this,
+
+2)Install Solr
+3)Create Collection
+4)Index sample data
+5)Once above steps are done, https://patentsview.org/apis/api-endpoints/patents
+6)Index this data in Solr and show me how to search
+
+
+a
+bab
+cbabc
+dcbabcd
+
+
+
+
+Hi if you are interested for the role please check and fill the form https://cutt.ly/QHJyqFd
+
+
+appdev270491@gmail.com
+
+
+Freshers
+Final Review	4
+In Code Review	2
+In New Lang Review	19
+Selected 7
+SOLR	13
+
+Freshers
+Selected:7
+Final Review:4
+SOLR Review:13
+New Lang Review:19
+Code Review:2
+For QA status:
+
+Selected:0
+Final Review:1
+Code Review:1
+solr create_core -c resumeextraction
+
+
+
+AWS JD
+AWS and devops (70%) + Postgresql(30)
+He should handle all devops related activities - provisioning, troubleshooting, designing and issue debugging.
+Ec2,VPC,ALB,Route53,IAM,S3,EFS,Cost-explorer - Hands-on experience needed
+Postgresql db creation, privileges settings, high availability concepts hands-on
+Jenkins, grafana, ansible,git, RDS, zabbix - added advantage
+

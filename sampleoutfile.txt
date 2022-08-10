@@ -1,0 +1,90 @@
+ROUND one
+
+Dear Candidate,
+
+Your application for the Associate Development Engineer position at HashAgile, a Coimbatore-based startup, has been received.
+
+Since we will be live from Jul Mid only, we are not yet listed in Google, but we can answer any questions you may have over the chat/phone call during the interview.
+
+As mentioned in the Google forms, there will be two to three rounds of interviews.
+
+First two rounds will be basic coding evaluation based on micro assignments.
+
+Please choose any one of the three programming challenges in the attachment and respond as soon as possible.
+
+Email Response Checklist
+Subject is postfixed with First name
+Eg. Associate Development Engineer -Batch #six  Round #one - Kiran
+Working https://www.onlinegdb.com/ url or any other online editor that you are comfortable with
+Supporting screenshots of input & output
+Make sure code  is attached in the online url.
+
+NB please take a moment to mark the email as not spam in your spam folder.
+
+ROUND two
+
+Congratulations 
+
+You are advanced to the Second Round of selection.
+The New Language Adaptation Round
+The Task is Write the same code in Ruby language
+and update asap in an online editor just like the previous one.
+
+All the best
+NB please take a moment to mark the email as not spam in your spam folder.
+
+Round three
+SOLR 
+one)https://solr.apache.org/guide/solr/latest/getting-started/solr-tutorial.html
+Read about this,
+
+two)Install Solr
+three)Create Collection
+four)Index sample data
+five)Once above steps are done, https://patentsview.org/apis/api-endpoints/patents
+six)Index this data in Solr and show me how to search
+
+
+a
+bab
+cbabc
+dcbabcd
+
+
+
+
+Hi if you are interested for the role please check and fill the form https://cutt.ly/QHJyqFd
+
+
+appdevtwosevenzerofour9one@gmail.com
+
+
+Freshers
+Final Review	four
+In Code Review	two
+In New Lang Review	one9
+Selected seven
+SOLR	onethree
+
+Freshers
+Selected:seven
+Final Review:four
+SOLR Review:onethree
+New Lang Review:one9
+Code Review:two
+For QA status:
+
+Selected:zero
+Final Review:one
+Code Review:one
+solr create_core -c resumeextraction
+
+
+
+AWS JD
+AWS and devops (sevenzero%) + Postgresql(threezero)
+He should handle all devops related activities - provisioning, troubleshooting, designing and issue debugging.
+Ectwo,VPC,ALB,Routefivethree,IAM,Sthree,EFS,Cost-explorer - Hands-on experience needed
+Postgresql db creation, privileges settings, high availability concepts hands-on
+Jenkins, grafana, ansible,git, RDS, zabbix - added advantage
+

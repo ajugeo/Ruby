@@ -6,3 +6,5 @@ Take a slit of length n where all the numbers are non-negative and unique.
 Sample input: 4 8 6 3 2
 Sample output: 4 6 2 6 3 2
 =end
+
+
